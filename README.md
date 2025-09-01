@@ -8,4 +8,5 @@ Contents
 5. Multiomics data integration methodology
 6. Genomics pipelines - variant effects &  annotation
 7. Proteomics pipelines - Technology
-8. Bioinformatics workflows
+8. Bioinformatics workflows - insilico and cloud computing
+   
